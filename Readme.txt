@@ -3,6 +3,5 @@ developer
 # start from GUI tools
 ## sourcetreec
 ## VS code
-### 20210915 Test
-#### add tshrit list add
+### add tshrit list add
 #### hotfix merge
